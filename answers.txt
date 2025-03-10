@@ -1,1 +1,5 @@
- 
+1. It prepares changes for commit. It's needed because Git doesn't track changes automatically.
+2. It saves staged changes locally. It's needed before pushing because only committed changes can be pushed.
+3. Git clone: Copies a remote repository to your computer. 
+   Git pull: Updates your local repo with the latest changes from the remote.
+4. by opening the files to see if changes happened there or not. or look for success messages in the terminal. 
